@@ -5,7 +5,7 @@
 
 ### Solution
 1. Open the file in IDA. You can see the assembly code in the screenshot below:
-![alt text](..\..\static\GDB_baby_step_2.png)
+![alt text](../../static/GDB_baby_step_2.png)
 
 2. The pseudocode shows a loop adding values to v5, starting at 123098. The return value is stored in the eax register, which is standard for functions returning 32-bit integers.
 
