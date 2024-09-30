@@ -1,4 +1,4 @@
-# vault-door-training
+# GDB_baby_step_1
 
 ### Given:
 1. `debugger0_a` file
